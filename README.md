@@ -12,7 +12,8 @@ Projeyi cloneladıktan sonra Visual Studip Code programında açınız.
 
 Linux için:
 
-```cd kodluyoruzrepo
+```
+cd kodluyoruzrepo
 code .
 ```
 
